@@ -1,0 +1,2 @@
+Make a file and set it a defual commit message. 
+This is also a practice of stage, commit, push learned earlier.
